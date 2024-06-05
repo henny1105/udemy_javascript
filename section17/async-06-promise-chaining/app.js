@@ -49,8 +49,6 @@ function trackUserHandler() {
 
 button.addEventListener('click', trackUserHandler);
 
-// 주석 처리된 코드 블록은 계산 작업을 수행하고 결과를 출력합니다.
-// 이는 위치 추적 기능과 직접적으로 관련이 없기 때문에 주석 처리된 상태로 두겠습니다.
 // let result = 0;
 
 // for (let i = 0; i < 100000000; i++) {
